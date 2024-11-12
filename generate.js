@@ -5,19 +5,19 @@ import fs from "fs";
 // Update with your project's info
 const specs = {
   project: {
-    name: "XYZ",
+    name: "Movement",
     defaultBranch: "main",
-    repoUrl: "https://github.com/user/project-slug",
-    docsUrl: "https://github.com/user/project-slug/blob/main/README.md",
+    repoUrl: "https://github.com/orgs/movementlabsxyz",
+    docsUrl: "https://docs.movementnetwork.xyz/",
   },
   contributing: {
     generate: true,
-    emailSensitiveBugs: "security@example.com",
+    emailSensitiveBugs: "hello@movementlabs.xyz",
   },
   codeOfConduct: {
     generate: true,
     // enforcement email must not be omitted if 'generate' is true
-    enforcementEmail: "email@example.com",
+    enforcementEmail: "hello@movementlabs.xyz",
     // additional info about how the code of conduct will be enforced
     enforcementGuidelines: false,
   },
