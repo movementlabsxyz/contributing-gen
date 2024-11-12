@@ -7,7 +7,7 @@ const specs = {
   project: {
     name: "Movement",
     defaultBranch: "main",
-    repoUrl: "https://github.com/orgs/movementlabsxyz",
+    repoUrl: "https://github.com/movementlabsxyz/movement",
     docsUrl: "https://docs.movementnetwork.xyz/",
   },
   contributing: {
